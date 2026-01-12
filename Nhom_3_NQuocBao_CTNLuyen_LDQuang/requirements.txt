@@ -1,0 +1,10 @@
+#Danh sách các thư viện cần cài
+
+tensorflow  # framework Deep Learning
+numpy # Xử lý các mảng dữ liệu ảnh và các phép toán ma trận
+pandas # Quản lý dữ liệu dưới dạng bảng
+scikit-learn # Dùng để chia dữ liệu, tính Precision, Recall
+matplotlib # Vẽ biểu đồ Accuracy và Loss để theo dõi quá trình huấn luyện
+seaborn # Vẽ ma trận nhầm lẫn (Confusion Matrix)
+pillow # Thư viện xử lý hình ảnh, giúp nạp và chuyển đổi các định dạng ảnh
+streamlit #Xây dựng giao diện web cho ứng dụng demo. Cho phép: Upload ảnh, chọn ảnh mẫu, hiển thị kết quả dự đoán của các mô hình
